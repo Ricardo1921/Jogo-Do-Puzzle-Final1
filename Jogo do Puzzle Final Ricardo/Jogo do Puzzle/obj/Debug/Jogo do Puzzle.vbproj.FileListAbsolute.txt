@@ -1,0 +1,12 @@
+C:\Users\RJXO\source\repos\Jogo do Puzzle\Jogo do Puzzle\bin\Debug\Jogo do Puzzle.exe.config
+C:\Users\RJXO\source\repos\Jogo do Puzzle\Jogo do Puzzle\bin\Debug\Jogo do Puzzle.exe
+C:\Users\RJXO\source\repos\Jogo do Puzzle\Jogo do Puzzle\bin\Debug\Jogo do Puzzle.pdb
+C:\Users\RJXO\source\repos\Jogo do Puzzle\Jogo do Puzzle\bin\Debug\Jogo do Puzzle.xml
+C:\Users\RJXO\source\repos\Jogo do Puzzle\Jogo do Puzzle\obj\Debug\Jogo do Puzzle.vbprojAssemblyReference.cache
+C:\Users\RJXO\source\repos\Jogo do Puzzle\Jogo do Puzzle\obj\Debug\Jogo_do_Puzzle.Form1.resources
+C:\Users\RJXO\source\repos\Jogo do Puzzle\Jogo do Puzzle\obj\Debug\Jogo_do_Puzzle.Resources.resources
+C:\Users\RJXO\source\repos\Jogo do Puzzle\Jogo do Puzzle\obj\Debug\Jogo do Puzzle.vbproj.GenerateResource.cache
+C:\Users\RJXO\source\repos\Jogo do Puzzle\Jogo do Puzzle\obj\Debug\Jogo do Puzzle.vbproj.CoreCompileInputs.cache
+C:\Users\RJXO\source\repos\Jogo do Puzzle\Jogo do Puzzle\obj\Debug\Jogo do Puzzle.exe
+C:\Users\RJXO\source\repos\Jogo do Puzzle\Jogo do Puzzle\obj\Debug\Jogo do Puzzle.xml
+C:\Users\RJXO\source\repos\Jogo do Puzzle\Jogo do Puzzle\obj\Debug\Jogo do Puzzle.pdb
